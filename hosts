@@ -1,0 +1,25 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+
+# Blocked websites
+0.0.0.0     news.ycombinator.com
+0.0.0.0     fixyt.com
+0.0.0.0     reddit.com
+0.0.0.0     www.reddit.com
+0.0.0.0     youtube.com
+0.0.0.0     www.youtube.com
+0.0.0.0     8tracks.com
+0.0.0.0     soundcloud.com
+0.0.0.0     facebook.com
+0.0.0.0     www.facebook.com
+0.0.0.0     twitter.com
+0.0.0.0     quora.com
+0.0.0.0     www.quora.com
+
